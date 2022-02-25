@@ -22,9 +22,9 @@
 ![Abhay's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abhayrm20&layout=compact&langs_count=8&hide_border=true)
 <br />
 <br />
-<a href="https://github.com/aryabharat/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
-<a href="https://github.com/aryabharat/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=aryabharat&column=7"/>
+<a href="https://github.com/abhayrm20/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/abhayrm20/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=abhayrm20&column=7"/>
 </a>
 
 <br />
