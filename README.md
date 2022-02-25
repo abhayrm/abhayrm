@@ -15,10 +15,13 @@
 
 ### About Me 🚀
 🌱 I’m a Backend developer with a slight (read huge) favourism towards Javascript and Node js. </br>
-👨‍💻  I am passionate about Microservices and building sustainable code & I enjoy learning new things. </br>
+👨‍💻 I am passionate about Microservices and building sustainable code & I enjoy learning new things. </br>
+🏢 I'm currently working with <a href="https://akudo.in">Akudo Technologies</a> as Backend Developer since May 2021. </br>
 
 ![Abhay's github stats](https://github-readme-stats.vercel.app/api?username=abhayrm20&show_icons=true&hide_border=true)&nbsp;&nbsp;
 ![Abhay's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abhayrm20&layout=compact&langs_count=8&hide_border=true)
 <br />
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=abhayrm20.abhayrm20)
+
+
