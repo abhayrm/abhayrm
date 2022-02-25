@@ -21,6 +21,14 @@
 ![Abhay's github stats](https://github-readme-stats.vercel.app/api?username=abhayrm20&show_icons=true&hide_border=true)&nbsp;&nbsp;
 ![Abhay's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abhayrm20&layout=compact&langs_count=8&hide_border=true)
 <br />
+<br />
+<a href="https://github.com/aryabharat/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/aryabharat/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=aryabharat&column=7"/>
+</a>
+
+<br />
+
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=abhayrm20.abhayrm20)
 
